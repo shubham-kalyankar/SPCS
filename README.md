@@ -6,7 +6,7 @@ Please view the documentation folder for more details.
 
 To run the project you need an ubuntu system with python3, ettercap and netstat installed.
 
-Command to install python3 :
+Command to install python3 :  
   sudo apt-get install python3
   
 Command to install ettercap :  
@@ -14,6 +14,6 @@ Command to install ettercap :
   sudo apt-get install build-essential  
   sudo apt-get install ettercap  
   
-Command to install netstat :  
-  sudo apt update
+Command to install netstat :    
+  sudo apt update  
   sudo apt install net-tools
